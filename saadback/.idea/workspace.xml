@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+<<<<<<< Updated upstream
+    <list default="true" id="b4c32a7c-51a4-4759-91d6-1561f01c39b9" name="Default Changelist" comment="修补id=0时不是当前用户的bug">
+      <change afterPath="$PROJECT_DIR$/message/migrations/0003_auto_20201215_2105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/migrations/0006_auto_20201215_2105.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/saadback.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/saadback.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/message/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/message/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/message/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/message/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/report/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/report/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saadback/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/saadback/urls.py" afterDir="false" />
+=======
+    <list default="true" id="b4c32a7c-51a4-4759-91d6-1561f01c39b9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kH0XUoszYzyo1b8ktX2J31MaxZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="saadback" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="saadback" type="Python.DjangoServer" factoryName="Django server">
+      <module name="saadback" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.saadback" />
+      <item itemvalue="Python.manage" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4c32a7c-51a4-4759-91d6-1561f01c39b9" name="Default Changelist" comment="" />
+      <created>1605342248395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605342248395</updated>
+      <workItem from="1605342250849" duration="3204000" />
+      <workItem from="1605346121842" duration="46000" />
+      <workItem from="1605878987652" duration="2768000" />
+      <workItem from="1605888522631" duration="264000" />
+      <workItem from="1605946778508" duration="4197000" />
+      <workItem from="1606370457220" duration="18670000" />
+      <workItem from="1606488125914" duration="3493000" />
+      <workItem from="1606560540378" duration="2689000" />
+      <workItem from="1606563517719" duration="444000" />
+      <workItem from="1606898298957" duration="2811000" />
+      <workItem from="1607062189749" duration="7218000" />
+      <workItem from="1607141853976" duration="475000" />
+      <workItem from="1607144328572" duration="12093000" />
+      <workItem from="1607604386393" duration="409000" />
+      <workItem from="1607952313105" duration="14521000" />
+      <workItem from="1607997764641" duration="1619000" />
+      <workItem from="1607999592968" duration="2454000" />
+      <workItem from="1608002708255" duration="257000" />
+<<<<<<< Updated upstream
+      <workItem from="1608022613517" duration="601000" />
+      <workItem from="1608028285980" duration="8442000" />
+=======
+      <workItem from="1608028271338" duration="2564000" />
+>>>>>>> Stashed changes
+    </task>
+    <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/zyy' into qrn&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;blog/__pycache__/views.cpython-38.pyc&#10;#&#9;blog/views.py&#10;#&#9;comment/__pycache__/views.cpython-38.pyc&#10;#&#9;db.sqlite3&#10;#&#9;report/__pycache__/views.cpython-38.pyc&#10;#&#9;saadback/__pycache__/settings.cpython-38.pyc&#10;#&#9;saadback/__pycache__/urls.cpython-38.pyc">
+      <created>1607998464572</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607998464572</updated>
+    </task>
+    <task id="LOCAL-00002" summary="更改数据库字段">
+      <created>1607999351248</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607999351248</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修补id=0时不是当前用户的bug">
+      <created>1608001516587</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608001516587</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/zyy' into qrn&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;blog/__pycache__/views.cpython-38.pyc&#10;#&#9;blog/views.py&#10;#&#9;comment/__pycache__/views.cpython-38.pyc&#10;#&#9;db.sqlite3&#10;#&#9;report/__pycache__/views.cpython-38.pyc&#10;#&#9;saadback/__pycache__/settings.cpython-38.pyc&#10;#&#9;saadback/__pycache__/urls.cpython-38.pyc" />
+    <MESSAGE value="更改数据库字段" />
+    <MESSAGE value="修补id=0时不是当前用户的bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="修补id=0时不是当前用户的bug" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="3" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608028502168">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="96" y="3" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1608028502168" />
+    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1608001526038">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1608001526038" />
+    <state x="93" y="93" width="1095" height="504" key="DiffContextDialog" timestamp="1608002048663">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="93" y="93" width="1095" height="504" key="DiffContextDialog/0.0.1280.689@0.0.1280.689" timestamp="1608002048663" />
+    <state x="421" y="103" key="FileChooserDialogImpl" timestamp="1608028501212">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="103" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1608028501212" />
+    <state width="1237" height="173" key="GridCell.Tab.0.bottom" timestamp="1608034795762">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="173" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1608034795762" />
+    <state width="1237" height="173" key="GridCell.Tab.0.center" timestamp="1608034795762">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="173" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1608034795762" />
+    <state width="1237" height="173" key="GridCell.Tab.0.left" timestamp="1608034795762">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="173" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1608034795762" />
+    <state width="1237" height="173" key="GridCell.Tab.0.right" timestamp="1608034795762">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="173" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1608034795762" />
+    <state width="1237" height="208" key="GridCell.Tab.1.bottom" timestamp="1607096380263">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1607096380263" />
+    <state width="1237" height="208" key="GridCell.Tab.1.center" timestamp="1607096380263">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1607096380263" />
+    <state width="1237" height="208" key="GridCell.Tab.1.left" timestamp="1607096380263">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1607096380263" />
+    <state width="1237" height="208" key="GridCell.Tab.1.right" timestamp="1607096380263">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1607096380263" />
+    <state width="218" height="477" key="HiddenNamespacesPopup" timestamp="1608028476050">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="218" height="477" key="HiddenNamespacesPopup/0.0.1280.689@0.0.1280.689" timestamp="1608028476050" />
+    <state x="233" y="81" key="Vcs.Push.Dialog.v2" timestamp="1608005695880">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="81" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1608005695880" />
+    <state x="371" y="153" key="com.intellij.database.dbimport.ImportUtil.MyDialog" timestamp="1607066502102">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="371" y="153" key="com.intellij.database.dbimport.ImportUtil.MyDialog/0.0.1280.689@0.0.1280.689" timestamp="1607066502102" />
+    <state x="435" y="147" key="git4idea.merge.GitMergeDialog" timestamp="1607998277390">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="435" y="147" key="git4idea.merge.GitMergeDialog/0.0.1280.689@0.0.1280.689" timestamp="1607998277390" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1606900910822">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1606900910822" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/message/models.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+<<<<<<< Updated upstream
+    <SUITE FILE_PATH="coverage/saadback$manage.coverage" NAME="manage Coverage Results" MODIFIED="1608039446358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+=======
+    <SUITE FILE_PATH="coverage/saadback$manage.coverage" NAME="manage Coverage Results" MODIFIED="1608028613545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+>>>>>>> Stashed changes
+  </component>
+</project>

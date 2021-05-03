@@ -1,0 +1,12 @@
+pillow
+django==2.2
+#djangorestframework==3.7
+drf-haystack 
+elasticsearch
+djangorestframework
+setuptools_scm
+chardet==3.0.4
+pypinyin==0.40.0
+django-crontab
+fuzzywuzzy
+python-Levenshtein
